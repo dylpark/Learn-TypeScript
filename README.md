@@ -1,2 +1,5 @@
 # Learn-TypeScript
- 'Learn TypeScript' on Codecademy
+
+My project content from 'Learn TypeScript' on Codecademy.
+
+---> https://www.codecademy.com/learn/learn-typescript
