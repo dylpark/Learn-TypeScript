@@ -1,4 +1,4 @@
-# Learn-TypeScript
+# Learn TypeScript - Codecademy
 
 My project content from 'Learn TypeScript' on Codecademy.
 
